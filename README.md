@@ -4,7 +4,7 @@
 
 
 单模思路 
-90.952
+90.952 分
 
 :.  
 │  1_data_preprocessing.py  
@@ -26,12 +26,11 @@
 │        
 ├─output  
 │  ├─test-a  
-│  │      data_featureCross.csv  
-│  │      data_featureEngineering_1.csv  
-│  │      data_featureEngineering_2.csv  
-│  │      data_preprocessing.csv  
-│  │        
-│  └─test-b  
+│        data_featureCross.csv  
+│        data_featureEngineering_1.csv  
+│        data_featureEngineering_2.csv  
+│        data_preprocessing.csv  
+│            
 ├─submit  
 │      submit-after_feature_selection.csv  
 │      submit-baseline.csv  
